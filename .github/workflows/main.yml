@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '03 34 * * *'
+    - cron: '39 03 * * *'
 
 jobs:
   clockIn:
